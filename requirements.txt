@@ -1,0 +1,4 @@
+SQLAlchemy>=1.4.42,<2.0
+SQLAlchemy-Utils>=0.38.3
+typing_extensions>=4.4.0
+python-ulid>=1.1.0
